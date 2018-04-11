@@ -13,5 +13,30 @@ namespace osu.golf.handicap.Controllers
         {
             return Content("you reached men");
         }
+
+        public IActionResult Buckeye()
+        {
+            return Content("you reached men's buckeye");
+        }
+
+        public IActionResult Black()
+        {
+            return Content("you reached men's black");
+        }
+
+        public IActionResult Scarlet()
+        {
+            return Content("you reached men's scarlet");
+        }
+
+        public IActionResult Gray()
+        {
+            return Content("you reached men's gray");
+        }
+
+        public IActionResult White()
+        {
+            return Content("you reached men's white");
+        }
     }
 }
