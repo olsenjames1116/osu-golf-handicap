@@ -12535,23 +12535,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/alexbirchfield/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\olsen\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexbirchfield/Documents/GitHub/osu-golf-handicap/osu.golf.handicap.csproj",
+      "projectUniqueName": "C:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\osu.golf.handicap.csproj",
       "projectName": "osu.golf.handicap",
-      "projectPath": "/Users/alexbirchfield/Documents/GitHub/osu-golf-handicap/osu.golf.handicap.csproj",
-      "packagesPath": "/Users/alexbirchfield/.nuget/packages/",
-      "outputPath": "/Users/alexbirchfield/Documents/GitHub/osu-golf-handicap/obj/",
+      "projectPath": "C:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\osu.golf.handicap.csproj",
+      "packagesPath": "C:\\Users\\olsen\\.nuget\\packages\\",
+      "outputPath": "C:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/alexbirchfield/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\olsen\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
