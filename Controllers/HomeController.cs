@@ -11,7 +11,7 @@ namespace osu.golf.handicap.Controllers
     {
         public IActionResult Index()
         {
-            return Content("you reached home");
+            return View();
         }
     }
 }

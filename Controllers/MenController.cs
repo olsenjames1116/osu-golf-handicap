@@ -11,7 +11,32 @@ namespace osu.golf.handicap.Controllers
     {
         public IActionResult Index()
         {
-            return Content("you reached men");
+            return View();
+        }
+
+        public IActionResult Buckeye()
+        {
+            return View();
+        }
+
+        public IActionResult Black()
+        {
+            return View();
+        }
+
+        public IActionResult Scarlet()
+        {
+            return View();
+        }
+
+        public IActionResult Gray()
+        {
+            return View();
+        }
+
+        public IActionResult White()
+        {
+            return View();
         }
     }
 }
