@@ -11,12 +11,12 @@ namespace osu.golf.handicap.Controllers
     {
         public IActionResult Index()
         {
-            return Content("you reached women");
+            return View();
         }
 
         public IActionResult White()
         {
-            return Content("you reached women's white course");
+            return View();
         }
     }
 }
