@@ -1,5 +1,16 @@
+@using osu.golf.handicap.Models
+
 @{
-    ViewData["Title"] = "Scarlet Page";
+    ViewBag.Title = "Scarlet";
 }
 
-<p>This is the men's scarlet page</p>
+@using (Html.BeginForm("Scarlet", "Men")){
+    <div>
+        <h2>@Html.Label("Enter first score") : @Html.TextBox("score1")</h2>
+        <h2>@Html.Label("Enter second score") : @Html.TextBox("score2")</h2>
+        <h2>@Html.Label("Enter third score") : @Html.TextBox("score3")</h2>
+        <h2>@Html.Label("Enter fourth score") : @Html.TextBox("score4")</h2>
+        <h2>@Html.Label("Enter fifth score") : @Html.TextBox("score5")</h2>
+    </div>
+        <input type="submit" name="Go" value="Go"/>
+}
