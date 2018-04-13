@@ -4,13 +4,16 @@
     ViewBag.Title = "White";
 }
 
-@using (Html.BeginForm("White", "Women")){
+@using (Html.BeginForm("Result", "Women")){
     <div>
         <h2>@Html.Label("Enter first score") : @Html.TextBox("score1")</h2>
         <h2>@Html.Label("Enter second score") : @Html.TextBox("score2")</h2>
         <h2>@Html.Label("Enter third score") : @Html.TextBox("score3")</h2>
         <h2>@Html.Label("Enter fourth score") : @Html.TextBox("score4")</h2>
         <h2>@Html.Label("Enter fifth score") : @Html.TextBox("score5")</h2>
+    </div>
+    <div>
+        <h1>@Html.Label("Handicap") : @Html.TextBox("handicap")</h1>
     </div>
         <input type="submit" name="Go" value="Go"/>
 }
