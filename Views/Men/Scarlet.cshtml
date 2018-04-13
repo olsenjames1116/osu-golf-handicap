@@ -4,13 +4,27 @@
     ViewBag.Title = "Scarlet";
 }
 
-@using (Html.BeginForm("Result", "Men")){
+<style>
+    h2{
+        font-size: 200%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:whitesmoke;
+        background-color:crimson;
+    }
+</style>
+
+@using (Html.BeginForm("ScarletResult", "Men")){
     <div>
-        <h2>@Html.Label("Enter first score") : @Html.TextBox("score1")</h2>
-        <h2>@Html.Label("Enter second score") : @Html.TextBox("score2")</h2>
-        <h2>@Html.Label("Enter third score") : @Html.TextBox("score3")</h2>
-        <h2>@Html.Label("Enter fourth score") : @Html.TextBox("score4")</h2>
-        <h2>@Html.Label("Enter fifth score") : @Html.TextBox("score5")</h2>
+        <h2>Men's Scarlet Course</h2>
+        <span>@Html.Label("Enter first score") : @Html.TextBox("score1")</span>
+        <br>
+        <span>@Html.Label("Enter second score") : @Html.TextBox("score2")</span>
+        <br>
+        <span>@Html.Label("Enter third score") : @Html.TextBox("score3")</span>
+        <br>
+        <span>@Html.Label("Enter fourth score") : @Html.TextBox("score4")</span>
+        <br>
+        <span>@Html.Label("Enter fifth score") : @Html.TextBox("score5")</span>
     </div>
-        <input type="submit" name="Go" value="Go"/>
+        <input type="submit" name="Calculate" value="Calculate"/>
 }
