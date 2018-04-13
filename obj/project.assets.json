@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\osu.golf.handicap.csproj",
+      "projectUniqueName": "c:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\osu.golf.handicap.csproj",
       "projectName": "osu.golf.handicap",
-      "projectPath": "C:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\osu.golf.handicap.csproj",
+      "projectPath": "c:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\osu.golf.handicap.csproj",
       "packagesPath": "C:\\Users\\olsen\\.nuget\\packages\\",
-      "outputPath": "C:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\obj\\",
+      "outputPath": "c:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12595,5 +12595,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\ACCTMIS 3610 Workspace\\osu.golf.handicap\\obj\\osu.golf.handicap.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
