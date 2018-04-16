@@ -10,19 +10,27 @@
         color:white;
     }
 
+    h2{
+        display: inline;
+    }
+
     h3{
-        font-size: 150%;
+        font-size: 115%;
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        color: maroon;
     }
 
     span{
-        font-size: 100%;
+        font-size: 105%;
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: maroon;
     }
 
     p{
         font-size: 100%;
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: maroon;
     }
 
     a{
@@ -34,6 +42,10 @@
         color:silver;
     }
 
+    footer{
+        text-align: center;
+        color: maroon;
+    }
 
 </style>
 
@@ -42,4 +54,13 @@
     <h1><a href = "../Home/Index">Ohio State Golf Club Handicap Calculator</a></h1>
 </header>
 
+
 @RenderBody()
+
+<footer>
+    <p>Please select your preference for your own course of play below:</p>
+    <a href = "../Men/Index"><img src="http://www.chargerathletics.com/images/NCAA_Logos/m_golf_vp.jpg"
+    alt="Men's pic" height="150" width="auto"></a>
+    <a href="../Women/Index"><img src="http://grfx.cstv.com/schools/hou/graphics/auto/wgolf_NCAASanAntonioReg.jpg"
+    alt="Women's pic" height="150" width="auto"</a>
+</footer>
