@@ -18,3 +18,13 @@ C:\ACCTMIS 3610 Workspace\osu.golf.handicap\obj\Debug\netcoreapp2.0\osu.golf.han
 C:\ACCTMIS 3610 Workspace\osu.golf.handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.AssemblyInfo.cs
 C:\ACCTMIS 3610 Workspace\osu.golf.handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.dll
 C:\ACCTMIS 3610 Workspace\osu.golf.handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.pdb
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\bin\Debug\netcoreapp2.0\osu.golf.handicap.deps.json
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\bin\Debug\netcoreapp2.0\osu.golf.handicap.runtimeconfig.json
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\bin\Debug\netcoreapp2.0\osu.golf.handicap.runtimeconfig.dev.json
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\bin\Debug\netcoreapp2.0\osu.golf.handicap.dll
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\bin\Debug\netcoreapp2.0\osu.golf.handicap.pdb
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.csproj.CoreCompileInputs.cache
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.AssemblyInfoInputs.cache
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.AssemblyInfo.cs
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.dll
+C:\ACCTMIS 3610 Workspace\osu-golf-handicap\obj\Debug\netcoreapp2.0\osu.golf.handicap.pdb
